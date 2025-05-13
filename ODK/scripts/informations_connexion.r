@@ -1,0 +1,2 @@
+login_odk="XXXXXXXXXXXXXXXX"
+mot_de_passe="XXXXXXXXXXXXXXXXXX"
