@@ -12,4 +12,10 @@ Elle se présente ainsi:
 
 ![Image](https://github.com/user-attachments/assets/37a52375-3255-4fa2-85dc-fbb994934e75)
 
+> [!NOTE]
+> Afin de permettre une ouverture rapide de l'application, celle-ci s'ouvre dans l'état ou elle était lors de sa dernière mise à jour (la date de celle-ci est indiqué en haut à
+> gauche "Version du fichier des tirages de tiques : XXXX XXXXX";
+
+> [!TIP]
+> Pour avoir un affichage des dernières données, pensez à appuyer sur le bouton de mise à jour "MAJ" en haut à gauche.
 
