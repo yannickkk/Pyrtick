@@ -14,4 +14,12 @@ Ses information sont rappelées en haut à droite en gris sur la page de l'appli
 
 <img width="532" height="71" alt="Image" src="https://github.com/user-attachments/assets/160203ee-1412-4718-98e1-46f2314c9057" />
 
-une fois le fichier téléchargé par l'application, appuyez sur le bouton vert: <img width="180" height="53" alt="Image" src="https://github.com/user-attachments/assets/3a5fac7f-3578-41c2-a104-c56cb001c405" /> pour déclencher l'importation des données.
+une fois le fichier téléchargé par l'application, appuyez sur le bouton vert "importer les données" pour déclencher l'importation des données.
+
+Une fois l'opération réalisée appuyez sur MAJ pour mettre à jour l'affichage.
+
+Les données et les méta données du fichiers sont importés dans la base de données db_pyrtick. Le résultat affiché sur l'application est une synthèse des données et des méta données pour chaque relevé de température/hygrométrie de la sonde ainsi que de sa position géographique lors du relevé.
+
+On peut ensuite trier les données. Dans la capture d'écran ci-dessous, on filtre les données pour n'avoir que les enregistrements pour n'avoir que la période durant laquelle la température était comprise entre 
+<img width="1913" height="957" alt="Image" src="https://github.com/user-attachments/assets/726a49d9-a88a-4499-8498-581f4f284fe4" />
+
