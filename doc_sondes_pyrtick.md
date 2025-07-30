@@ -26,8 +26,8 @@ On peut ensuite trier les données. Dans la capture d'écran ci-dessous, on filt
 
 ## Archivage des données brutes.
 
-Une fois importées dans la base de données du projet Pyrtick (db_pytick) les données brutes sont archivée sur le stockage S3 du laboratoire.
+Une fois importées dans la base de données du projet Pyrtick (db_pytick) les données brutes sont archivées sur le stockage S3 du laboratoire.
 
 <img width="1551" height="922" alt="Image" src="https://github.com/user-attachments/assets/a67e47b6-71a4-4373-adf7-f761d22b7b02" />
 
-
+Les données de la base de données Pyrtick, comme toutes les bases de données du CEFS sont sauvegardées tous les jours et les sauvegardes sont conservées pendant 30 jours.
