@@ -2,9 +2,9 @@
 
 Cette application permet à l'utilisateur de visualiser, de trier et de téléchatger les données qu'il a saisi sur le terrain ou au laboratoire à l'aide les formulaires ODK collect:
 
-[App_Tirage_V.1.0.xlsx](PyrTick/App_Tirage_V.1.0.xlsx)
+[App_Tirage_V.1.0.xlsx](ODK/PyrTick/App_Tirage_V.1.0.xlsx)
 
-[App_Identif_tiques_V.1.3.xlsx](PyrTick/App_Identif_tiques_V.1.3.xlsx)
+[App_Identif_tiques_V.1.3.xlsx](ODK/PyrTick/App_Identif_tiques_V.1.3.xlsx)
 
 Elle se présente ainsi:
 
