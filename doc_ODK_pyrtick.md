@@ -6,6 +6,8 @@ Cette application permet à l'utilisateur de visualiser, de trier et de téléch
 
 [App_Identif_tiques_V.1.3.xlsx](https://github.com/yannickkk/ODK/blob/3ea07583a9f5e789567ecdbe847376c4ea4f65ef/PyrTick/App_Identif_tiques_V.1.3.xlsx)
 
+## Onglet Tirage
+
 Elle se présente ainsi:
 
 <h2 align="center"> Vue de du premier onglet qui permet l'affichage, le trie et l'exportation des données de tirage.</h2>
@@ -41,6 +43,16 @@ Le résultat se présente ainsi:
 Pour ne conservé de ce trie que les données pour lesquelles la température extérieure est surpérieur à 15 ° c Cliquer sur la case de trie de la colonne temperature une barre glissante apparait avec des valeurs allant (d'après l'exemple ci-dessus) de 12 à 20,4°C. Déplacer le curseur de gauche sur 15 et les données sont réduites à la plage de température 15 à 20,4°C.
 
 Une fois la phase de trie terminée, exporter vos résultats au format souhaité avec l'un des deux boutons "xx_Filtrés.
+
+## Onglet Identification
+
+l'onglet Identification se présente comme l'onglet tirage et possède les même fonctionnalités.
+
+![Image](https://github.com/user-attachments/assets/c36d9d67-1cfd-44f8-82ff-911849e2def8)
+
+Le data table présente toutes données qui ont été entrées dans Collec Science (l'outil de gestion des collections, collec science est alimenté par le formulaire [App_Identif_tiques_V.1.3.xlsx](https://github.com/yannickkk/ODK/blob/3ea07583a9f5e789567ecdbe847376c4ea4f65ef/PyrTick/App_Identif_tiques_V.1.3.xlsx) et les données du programme Pyrtick correspondant à ce formulaire sont affichées ici.
+
+On peut donc à l'aide de ce formulaire trier toutes les tiques au stade nymphe de l'altitude précédente PT-vaz-5f et savoir dans quelles boites de collection elles sont rangés.
 
 
 
