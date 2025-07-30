@@ -26,6 +26,25 @@ Les fichiers de sorties sont nommés ainsi: App_Tirage_V.1.0_yyyy_mm_dd_hh_mm_ss
 > [!NOTE]
 > Si aucun troie n'est effectué dans le tableau les sorties sont toutes identiques et correspondent au jeu de données brut.
 
+Le tableau d'affichage présente la particularité d'autoriser des tries emboités pour extraire les données. Emboité veut dire que le résultat d'un premier trie sur une colonne est conservé lorsque l'on effectue un second trie sur une autre colonne.
+
+Imaginons que je veuille réccupérer toutes les données de tirage de tiques pour l'alitude 5 en forêt dans le Val d'Azun. Le code échantillon correspondant à cette demande est PT-vaz-5f
+
 ### Trie des données
+
+Imaginons que je veuille réccupérer toutes les données de tirage de tiques pour l'alitude 5 en forêt dans le Val d'Azun. Le code échantillon correspondant à cette demande est PT-vaz-5f. On rentre donc cette donnée dans le cadre de trie de la colonne code_echantillon
+
+Le résultat se présente ainsi:
+
+![Image](https://github.com/user-attachments/assets/d9a66306-9e09-468c-a627-b3b741d35d8b)
+
+Pour ne conservé de ce trie que les données pour lesquelles la température extérieure est surpérieur à 15 ° c Cliquer sur la case de trie de la colonne temperature une barre glissante apparait avec des valeurs allant (d'après l'exemple ci-dessus) de 12 à 20,4°C. Déplacer le curseur de gauche sur 15 et les données sont réduites à la plage de température 15 à 20,4°C.
+
+Une fois la phase de trie terminée, exporter vos résultats au format souhaité avec l'un des deux boutons "xx_Filtrés.
+
+
+
+
+
 
 
