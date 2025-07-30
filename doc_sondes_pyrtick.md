@@ -20,7 +20,7 @@ Une fois l'opération réalisée appuyez sur MAJ pour mettre à jour l'affichage
 
 Les données et les méta données du fichiers sont importés dans la base de données db_pyrtick. Le résultat affiché sur l'application est une synthèse des données et des méta données pour chaque relevé de température/hygrométrie de la sonde ainsi que de sa position géographique lors du relevé.
 
-On peut ensuite trier les données. Dans la capture d'écran ci-dessous, on filtre les données pour n'avoir que les enregistrements pour n'avoir que la période durant laquelle la température était comprise entre 10,8 et 20,8 °C.
+On peut ensuite trier les données. Dans la capture d'écran ci-dessous, on filtre les données pour n'avoir que les enregistrements pour n'avoir que la période durant laquelle la température était comprise entre 10,8 et 20,8 °C (cf colonne temperature). dans la vallée du Lys (colonne valley = 'Lys').
 
 <img width="1913" height="957" alt="Image" src="https://github.com/user-attachments/assets/726a49d9-a88a-4499-8498-581f4f284fe4" />
 
