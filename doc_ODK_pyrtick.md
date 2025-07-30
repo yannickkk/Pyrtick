@@ -19,3 +19,8 @@ Elle se présente ainsi:
 > [!TIP]
 > Pour avoir un affichage des dernières données, pensez à appuyer sur le bouton de mise à jour "MAJ" en haut à gauche.
 
+Les boutons "CSV_Entier", "CSV_Filtré", "XLSX_Entier", "XLSX_Filtré" servent à exporter les résultats filtrés et bruts (Entier). Le format xlsx est un format xml reconnu par le tableur microsoft Excel (ou par calc) et le format csv est, en fait, un format csv2 (séparateur de colonne ";", séparteur de décimales ",") 
+
+Les fichiers de sorties sont nommés ainsi: App_Tirage_V.1.0_yyyy_mm_dd_hh_mm_ss.csv ou App_Tirage_V.1.0_yyyy_mm_dd_hh_mm_ss.xlsx
+
+##Trie des données
