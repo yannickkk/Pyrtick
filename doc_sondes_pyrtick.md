@@ -24,3 +24,10 @@ On peut ensuite trier les données. Dans la capture d'écran ci-dessous, on filt
 
 <img width="1913" height="957" alt="Image" src="https://github.com/user-attachments/assets/726a49d9-a88a-4499-8498-581f4f284fe4" />
 
+## Archivage des données brutes.
+
+Une fois importées dans la base de données du projet Pyrtick (db_pytick) les données brutes sont archivée sur le stockage S3 du laboratoire.
+
+<img width="1551" height="922" alt="Image" src="https://github.com/user-attachments/assets/a67e47b6-71a4-4373-adf7-f761d22b7b02" />
+
+
